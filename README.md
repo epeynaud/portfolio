@@ -50,12 +50,11 @@ Stage ingénieure recherche → propagation acoustique turboréacteur
 
 ## 📄 Publications sélectionnées
 
-- **Peynaud E. et al. 2025.** A workflow to discover PDEs from data.
-  *MethodsX.* https://doi.org/10.1016/j.mex.2025.103560
-- **Bonnet-Ben Dhia et al. 2012.** Time-harmonic acoustic scattering
+- **Peynaud E.**, Melatagia P., Stinckwich S., Barczi J-F. A workflow to discover PDEs from data. 2025. *MethodsX.* https://doi.org/10.1016/j.mex.2025.103560
+- Bonnet-Ben Dhia A.S., Mercier J.F., Millot F., Pernet S., **Peynaud E**. 2012. Time-harmonic acoustic scattering
   in a complex flow. *Communications in Computational Physics.*
   https://doi.org/10.4208/cicp.221209.030111s
-- **Peynaud E. 2018.** Operator splitting and DG methods for
+- **Peynaud E.** 2018. Operator splitting and DG methods for
   advection-reaction-diffusion. *Biomath.*
   https://doi.org/10.11145/j.biomath.2018.12.037
 
